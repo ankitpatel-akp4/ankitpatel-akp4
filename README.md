@@ -15,7 +15,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankitpatel-akp4), [Portfolio](https://ankitpatel-akp4.github.io/)
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=indicate0&label=Profile%20views&color=0e75b6&style=flat" alt="indicate0" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitpatel-akp4&label=Profile%20views&color=0e75b6&style=flat" alt="ankitpatel-akp4" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitpatel-akp4" alt="ankitpatel-akp4" /></a> </p>
 
@@ -47,7 +47,7 @@
 </p> -->
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitpatel-akp4&show_icons=true&locale=en&layout=compact" alt="indicate0" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitpatel-akp4&show_icons=true&locale=en&layout=compact" alt="ankitpatel-akp4" /></p>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitpatel-akp4&show_icons=true&locale=en" alt="ankitpatel-akp4" /></p>
@@ -56,7 +56,7 @@
 
 
 <!---
-indicate0/indicate0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ankitpatel-akp4/ankitpatel-akp4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
