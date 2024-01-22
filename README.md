@@ -10,7 +10,7 @@
 
 
 - 👀 I’m interested in coding!
-- 🌱 I’m currently learning Java Backend
+- 🌱 I’m currently learning NextJs
 - 💞️ I’m looking to collaborate on a cool project
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankitpatel-akp4), [Portfolio](https://ankitpatel-akp4.github.io/)
 
