@@ -6,9 +6,11 @@
 
 </br> 
 
-<img  width="100%" height="400PX" align="right" src="https://github.com/ankitpatel-akp4/ankitpatel-akp4.github.io/blob/main/web_developer.svg" height="175px"/>
+<img  width="100%" height="400PX" align="right" style="padding: 20;" src="https://github.com/ankitpatel-akp4/ankitpatel-akp4.github.io/blob/main/web_developer.svg" height="175px"/>
 
-I completed my Full Stack Development Course from Masai School, Bangalore Karnataka India.
+&nbsp;
+&nbsp;
+- :classical_building: I completed my Full Stack Development Course from Masai School, Bangalore Karnataka India.
 - 👀 I’m interested in AI!
 - 🌱 I’m currently learning NextJs and Microservices
 - 💞️ I’m looking to collaborate on a cool project
