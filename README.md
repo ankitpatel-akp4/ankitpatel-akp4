@@ -8,9 +8,9 @@
 
 <img  width="100%" height="400PX" align="right" src="https://github.com/ankitpatel-akp4/ankitpatel-akp4.github.io/blob/main/web_developer.svg" height="175px"/>
 
-
-- 👀 I’m interested in coding!
-- 🌱 I’m currently learning NextJs
+I completed my Full Stack Development Course from Masai School, Bangalore Karnataka India.
+- 👀 I’m interested in AI!
+- 🌱 I’m currently learning NextJs and Microservices
 - 💞️ I’m looking to collaborate on a cool project
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankitpatel-akp4), [Portfolio](https://ankitpatel-akp4.github.io/)
 
